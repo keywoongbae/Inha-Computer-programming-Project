@@ -1,7 +1,7 @@
 # Inha-Computer-programming-Project
 ## Introduction
 
-본 프로젝트는 2021년 5월 17일부터 2021년 6월 4일까지 인하대학교 전자공학과 Mehdi 교수님의 컴퓨터 프로그래밍 수업과정에서 진행한 Project 입니다.
+본 프로젝트는 <ins>2021년 5월 17일부터 2021년 6월 4일</ins>까지 인하대학교 전자공학과 Mehdi 교수님의 컴퓨터 프로그래밍 수업과정에서 진행한 **c언어 기반 로그인 기능 구현 Project**입니다.
 
 ## 핵심 문제
 **Write a C code to produce a "Bank Management System" program having the following functions:**
